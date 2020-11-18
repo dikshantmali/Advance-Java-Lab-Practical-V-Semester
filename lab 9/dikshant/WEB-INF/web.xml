@@ -1,0 +1,12 @@
+ <web-app>
+ <servlet>
+<servlet-name>Dikshant</servlet-name>
+ <servlet-class>ShowName</servlet-class>
+ </servlet>
+
+ <servlet-mapping>
+<servlet-name>Dikshant</servlet-name>
+ <url-pattern>/name</url-pattern>
+ </servlet-mapping>
+
+</web-app>
